@@ -8,7 +8,7 @@ A [Homebrew tap] for various projects. Inspired
 
 Tap this repository:
 
-    brew tap thoughtbot/formulae
+    brew tap seyeojumu/formulae
 
 Install the packages it contains like any other Homebrew package:
 
