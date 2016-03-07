@@ -1,6 +1,6 @@
 require 'formula'
 
-class Elasticsearch < Formula
+class Elasticsearch15 < Formula
   desc "Distributed real-time search & analytics engine for the cloud"
   homepage "https://www.elastic.co/products/elasticsearch"
   url "https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.5.2.tar.gz"
