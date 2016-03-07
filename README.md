@@ -14,8 +14,3 @@ Install the packages it contains like any other Homebrew package:
 
     brew install elasticsearch15
 
-## Contributing
-
-Submit pull requests against the respective repos:
-
-* [gitsh](https://github.com/thoughtbot/gitsh)
